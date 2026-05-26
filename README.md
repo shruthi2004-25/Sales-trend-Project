@@ -1,4 +1,3 @@
-# Sales-trend-Project
 # Sales Trend Visualization and Forecasting Project
 
 ## Project Description
