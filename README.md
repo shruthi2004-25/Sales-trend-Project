@@ -42,7 +42,7 @@ The project successfully visualizes sales trends and predicts future sales using
 1. Open Google Colab
 2. Upload dataset
 3. Run notebook step by step
-# Sales Trend Visualization and Forecasting Project
+
 
 
 
